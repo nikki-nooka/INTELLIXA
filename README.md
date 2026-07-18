@@ -1,6 +1,6 @@
-# 🎓 AcademiAI: Wisdom-Driven Adaptive Learning & Career Development Ecosystem (v2.0)
+# 🎓 Intellexa: Wisdom-Driven Adaptive Learning & Career Development Ecosystem (v2.0)
 
-A comprehensive, full-stack educational and technical preparation platform designed to bridge the gap between academic theory, engineering practice, and ethical responsibility (**Dharma**). By combining dynamic AI roadmap synthesis, real-time memory visualizers, conversational podcast studios, and automated profile analytics, AcademiAI provides a complete career-accelerator suite for the modern software engineer.
+A comprehensive, full-stack educational and technical preparation platform designed to bridge the gap between academic theory, engineering practice, and ethical responsibility (**Dharma**). By combining dynamic AI roadmap synthesis, real-time memory visualizers, conversational podcast studios, and automated profile analytics, Intellexa provides a complete career-accelerator suite for the modern software engineer.
 
 ---
 
@@ -9,12 +9,12 @@ A comprehensive, full-stack educational and technical preparation platform desig
 Use the following slide-by-slide structure to build an engaging, professional, and high-impact presentation for your committee, jury, or stakeholders.
 
 ### Slide 1: Title & Vision
-* **Title:** AcademiAI v2.0: The Immersive Career Development & Adaptive Learning Ecosystem
+* **Title:** Intellexa v2.0: The Immersive Career Development & Adaptive Learning Ecosystem
 * **Visual Hook:** A split screen showing a traditional linear textbook on the left (crossed out) and a dynamic, multi-modal, branching neural network on the right.
 * **Content:**
   * **The Problem:** Static, passive educational materials that fail to teach real-world architectures, soft skills, or ethical engineering standards.
   * **The Solution:** A full-stack, wisdom-driven career development portal combining dynamic roadmaps, code sandboxes, conversational synthesis, and recruitment audits.
-* **Talking Points:** *"Most tech platforms treat learning as a linear list of checkboxes. AcademiAI makes it an active, multi-sensory process, aligning code quality with ethical responsibility, which we call **Dharma**."*
+* **Talking Points:** *"Most tech platforms treat learning as a linear list of checkboxes. Intellexa makes it an active, multi-sensory process, aligning code quality with ethical responsibility, which we call **Dharma**."*
 
 ---
 
@@ -120,7 +120,7 @@ Use the following slide-by-slide structure to build an engaging, professional, a
 
 ## 🛠️ Complete Application Feature List & Map
 
-Below is a technical mapping of all features built within **AcademiAI v2.0**:
+Below is a technical mapping of all features built within **Intellexa v2.0**:
 
 ### 1. Unified Authentication & Intro Cinematic
 * **IntroAnimationView**: A cinematic CSS-driven entry with smooth lettering animations and scale-down effects transitioning into the system.

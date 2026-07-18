@@ -1,13 +1,13 @@
-# 🎓 AcademiAI: Dynamic Pitch & Viva Guide (v2.0)
+# 🎓 Intellexa: Dynamic Pitch & Viva Guide (v2.0)
 
-A simple, direct, and visually clear guide to help you present **AcademiAI** to your viva jury with confidence. Use the visual wireframe layouts below to guide your explanation of each feature!
+A simple, direct, and visually clear guide to help you present **Intellexa** to your viva jury with confidence. Use the visual wireframe layouts below to guide your explanation of each feature!
 
 ---
 
 ## ⚡ Part 1: Respected Jury Pitch in 60 Seconds
-*"Respected jury members, we are proud to introduce **AcademiAI v2.0**, an immersive, wisdom-driven career development and adaptive learning ecosystem.*
+*"Respected jury members, we are proud to introduce **Intellexa v2.0**, an immersive, wisdom-driven career development and adaptive learning ecosystem.*
 
-*Traditional platforms are static and passive. AcademiAI transforms professional preparation through active learning: we generate custom career syllabi dynamically via AI, visualize complex code concepts in a Sandbox, synthesize real-time podcasts, and evaluate projects through an ethical lens (Dharma). It is the complete suite for the modern, responsible engineer."*
+*Traditional platforms are static and passive. Intellexa transforms professional preparation through active learning: we generate custom career syllabi dynamically via AI, visualize complex code concepts in a Sandbox, synthesize real-time podcasts, and evaluate projects through an ethical lens (Dharma). It is the complete suite for the modern, responsible engineer."*
 
 ---
 
@@ -16,7 +16,7 @@ A simple, direct, and visually clear guide to help you present **AcademiAI** to 
 ### 🏠 1. Landing Page (White Modern Theme)
 ```
 +-------------------------------------------------------------+
-|  [Logo] AcademiAI v2.0    [Features]      [Sign In] [Launch]|
+|  [Logo] Intellexa v2.0    [Features]      [Sign In] [Launch]|
 +-------------------------------------------------------------+
 |                                                             |
 |           MASTER ANY CAREER PATH WITH WISDOM-DRIVEN AI      |

@@ -17,7 +17,7 @@ const BOOT_STAGES = [
   'Structuring Epic Concept Explainer...',
   'Orchestrating Dharma Ethics Engine...',
   'Synchronizing Synthesizers...',
-  'System Active. Welcome to AcademiAI'
+  'System Active. Welcome to Intellexa'
 ];
 
 export default function IntroAnimationView({ onComplete }: IntroAnimationViewProps) {
@@ -96,7 +96,7 @@ export default function IntroAnimationView({ onComplete }: IntroAnimationViewPro
             transition={{ duration: 1, ease: "easeOut" }}
             className="text-2xl sm:text-3xl font-display font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-white via-indigo-200 to-indigo-100"
           >
-            ACADEMI AI
+            INTELLEXA
           </motion.h1>
           
           <motion.span

@@ -227,7 +227,7 @@ export default function AuthView({ onAuthSuccess, onClose, initialIsLogin = true
               <GraduationCap className="w-6 h-6 text-white" />
             </div>
             <div>
-              <h2 className="text-base font-bold font-display tracking-tight text-white leading-none">AcademiAI</h2>
+              <h2 className="text-base font-bold font-display tracking-tight text-white leading-none">Intellexa</h2>
               <span className="text-[9px] font-mono font-bold text-indigo-400 uppercase tracking-widest mt-1 block">
                 Socratic study system
               </span>

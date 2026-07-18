@@ -3011,14 +3011,14 @@ app.post('/api/github/analyze', async (req, res) => {
   try {
     console.log(`[GitHub API] Fetching profile for: ${username}`);
     const userRes = await fetch(`https://api.github.com/users/${username}`, {
-      headers: { 'User-Agent': 'AcademiAI-EdTech-Platform' }
+      headers: { 'User-Agent': 'Intellexa-Platform' }
     });
     if (userRes.ok) {
       profileData = await userRes.json();
       
       console.log(`[GitHub API] Fetching repos for: ${username}`);
       const reposRes = await fetch(`https://api.github.com/users/${username}/repos?sort=updated&per_page=30`, {
-        headers: { 'User-Agent': 'AcademiAI-EdTech-Platform' }
+        headers: { 'User-Agent': 'Intellexa-Platform' }
       });
       if (reposRes.ok) {
         reposData = await reposRes.json();
@@ -3026,7 +3026,7 @@ app.post('/api/github/analyze', async (req, res) => {
 
       console.log(`[GitHub API] Fetching PR counts for: ${username}`);
       const prsRes = await fetch(`https://api.github.com/search/issues?q=type:pr+author:${username}`, {
-        headers: { 'User-Agent': 'AcademiAI-EdTech-Platform' }
+        headers: { 'User-Agent': 'Intellexa-Platform' }
       });
       if (prsRes.ok) {
         const prsJson = await prsRes.json();

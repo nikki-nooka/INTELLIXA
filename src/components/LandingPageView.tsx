@@ -45,7 +45,7 @@ export default function LandingPageView({ onSignIn, onJoinFree }: LandingPageVie
           </div>
           <div>
             <div className="text-lg font-display font-extrabold text-slate-900 tracking-tight flex items-center gap-2">
-              AcademiAI
+              Intellexa
               <span className="bg-indigo-100 text-indigo-700 text-[9px] px-2 py-0.5 rounded-full font-mono font-bold tracking-widest uppercase border border-indigo-200">v2.0</span>
             </div>
             <span className="text-[10px] text-slate-500 font-semibold uppercase tracking-widest block font-mono">
@@ -184,7 +184,7 @@ export default function LandingPageView({ onSignIn, onJoinFree }: LandingPageVie
             Designed for Ultimate Career Sovereignty
           </h2>
           <p className="mt-4 text-slate-500 max-w-xl mx-auto text-sm sm:text-base font-medium">
-            Traditional learning is static. AcademiAI dynamically crafts individual career blueprints, teaches code visually, and verifies professional maturity.
+            Traditional learning is static. Intellexa dynamically crafts individual career blueprints, teaches code visually, and verifies professional maturity.
           </p>
         </div>
 
@@ -294,7 +294,7 @@ export default function LandingPageView({ onSignIn, onJoinFree }: LandingPageVie
                 Experience the Platform Interface
               </h2>
               <p className="text-slate-500 text-sm sm:text-base leading-relaxed">
-                Toggle through key sections of our visual workspace. Witness how AcademiAI simplifies complex topics through beautiful interactive code sandboxes and smart guidance.
+                Toggle through key sections of our visual workspace. Witness how Intellexa simplifies complex topics through beautiful interactive code sandboxes and smart guidance.
               </p>
 
               {/* Navigation Tabs for Sandbox Preview */}
@@ -506,7 +506,7 @@ export default function LandingPageView({ onSignIn, onJoinFree }: LandingPageVie
 
       {/* FOOTER */}
       <footer className="border-t border-slate-200 bg-white px-6 py-10 mt-auto text-center text-slate-500 font-mono text-xs">
-        <p>© {new Date().getFullYear()} AcademiAI. Developed for maximum career sovereignty.</p>
+        <p>© {new Date().getFullYear()} Intellexa. Developed for maximum career sovereignty.</p>
         <p className="mt-2 text-[10px] text-slate-400">
           Powered by Gemini 3.5 Flash Core Orchestrations. Fully compliant with Dharma guidelines.
         </p>

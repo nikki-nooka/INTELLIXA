@@ -440,7 +440,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="text-lg font-display font-bold text-slate-100 flex items-center gap-1.5 leading-none">
-                AcademiAI
+                Intellexa
               </h1>
               <span className="text-[10px] text-indigo-400 font-semibold uppercase tracking-wider block mt-0.5 font-mono">
                 Wisdom-driven career guide

@@ -1,5 +1,5 @@
 {
-  "name": "Remix AI EdTech Platform",
+  "name": "Intellexa",
   "description": "An interactive, wisdom-driven AI learning platform featuring personalized roadmaps, Dharma ethics AI, multilingual support, chatbot doubt solver, voice assistant, resume analyzer, learning analytics, performance ratings, and educational podcast generation.",
   "requestFramePermissions": [
     "microphone"
