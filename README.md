@@ -1,51 +1,33 @@
-🎓 Intellexa v2.0
+# 🎓 Intellexa v2.0
 
-Wisdom-Driven Adaptive Learning & Career Development Ecosystem
+> **Wisdom-Driven Adaptive Learning & Career Development Ecosystem**
 
-«An AI-powered full-stack learning platform that transforms traditional education into an immersive, personalized, and career-focused experience.»
-
----
-
-📖 Overview
-
-Modern education often emphasizes theory while providing limited exposure to practical software engineering, real-world architectures, technical interviews, portfolio building, and ethical software development.
-
-Intellexa v2.0 bridges this gap by combining Artificial Intelligence, interactive learning environments, career development tools, and ethical decision-making into a unified ecosystem. The platform empowers students to learn faster, build stronger portfolios, prepare for technical interviews, and become industry-ready software engineers.
+Intellexa is a comprehensive AI-powered full-stack educational platform designed to bridge the gap between academic learning, real-world software engineering, and ethical technology development (**Dharma**). By combining personalized AI roadmaps, interactive concept visualizations, career preparation tools, and intelligent profile analysis, Intellexa helps students become industry-ready engineers.
 
 ---
 
-✨ Key Features
+## 🚀 Features
 
-🔐 Authentication & Landing Experience
+### 🔐 Authentication & Landing
 
-- Secure authentication system
-- Persistent login sessions
-- Modern animated landing page
-- Interactive onboarding experience
-- Clean and responsive UI
+- Secure Authentication
+- Persistent User Sessions
+- Animated Intro Experience
+- Modern Responsive Landing Page
 
----
+### 📊 Student Dashboard
 
-📊 Smart Student Dashboard
+- XP Tracking System
+- Skills Radar Chart
+- Learning Analytics
+- Achievement Tracking
+- Activity Timeline
 
-A personalized dashboard that tracks every learning activity.
+### 🧠 AI Roadmap Generator
 
-Features
+Generate personalized learning roadmaps for any technology.
 
-- 🎯 Experience (XP) tracking
-- 📈 Learning progress analytics
-- 📊 Skills Radar Chart
-- 🏆 Achievement system
-- 📝 Activity timeline
-- 📚 Learning statistics
-
----
-
-🧠 AI Roadmap Generator
-
-Generate personalized learning roadmaps for any technology or career path.
-
-Supports
+**Supports**
 
 - Beginner
 - Intermediate
@@ -53,139 +35,95 @@ Supports
 
 Each roadmap includes:
 
-- Structured learning path
-- Interview preparation
-- Practical projects
-- Real-world architecture examples
-- YouTube learning resources
-- Industry case studies
-- Milestone tracking
+- Structured Learning Path
+- Interview Preparation
+- Practical Projects
+- Industry Case Studies
+- Architecture Examples
+- Learning Resources
 
----
-
-💻 Interactive Learning Sandbox
+### 💻 Interactive Learning Sandbox
 
 Visualize how programs execute internally.
 
-Features
+Features include:
 
-- Stack frame visualization
-- Memory simulation
-- Variable tracking
-- Recursive execution
-- Step-by-step debugging
-- Play/Pause controls
-- Reset functionality
+- Memory Visualization
+- Stack Frame Simulation
+- Recursive Execution
+- Variable Tracking
+- Step-by-Step Controls
 
-Students learn concepts by observing live execution rather than reading static notes.
+### 🎙️ AI Podcast Studio
 
----
+Turn technical topics into AI-generated conversations.
 
-🎙️ AI Podcast Studio
+- Dual Host Podcasts
+- Speech Synthesis
+- Adjustable Playback Speed
+- Interactive Learning
 
-Transform technical concepts into engaging conversations.
+### 🐙 GitHub Portfolio Auditor
 
-Features
+Analyze GitHub profiles like a recruiter.
 
-- AI-generated technical scripts
-- Dual-host podcast generation
-- Browser-based speech synthesis
-- Adjustable playback speed
-- Natural conversational explanations
+Provides:
 
-Ideal for learning during travel or workouts.
+- Repository Analysis
+- Commit Statistics
+- Language Distribution
+- Skill Gap Analysis
+- Personalized Project Suggestions
 
----
+### 📄 Resume Analyzer
 
-🐙 GitHub Portfolio Auditor
+Improve resumes using AI.
 
-Analyze GitHub profiles from a recruiter's perspective.
+Features:
 
-Analysis Includes
+- ATS Score
+- Keyword Analysis
+- Resume Feedback
+- Professional Bullet Rewrites
+- Missing Skills Detection
 
-- Repository quality
-- Commit consistency
-- Language distribution
-- Project complexity
-- Open-source contribution patterns
+### ⚖️ Dharma Evaluator
 
-Personalized Suggestions
+Evaluate software solutions ethically.
 
-- Missing skills
-- Recommended projects
-- Career-specific improvements
-- Architecture guidance
-- Learning roadmap updates
+Checks:
 
----
-
-📄 Smart Resume Analyzer
-
-Optimize resumes for Applicant Tracking Systems (ATS).
-
-Features
-
-- ATS score
-- Keyword analysis
-- Missing technical skills
-- Resume structure review
-- Action verb suggestions
-- Professional bullet rewrites
-- Improvement recommendations
-
----
-
-⚖️ Dharma Evaluator
-
-Evaluate software projects from an ethical engineering perspective.
-
-Assessment Areas
-
-- Data Privacy
+- Privacy
 - Accessibility
-- Inclusivity
 - Sustainability
-- Algorithmic Bias
-- Responsible AI
-- Security Practices
+- Bias Detection
+- Security
+- Responsible AI Practices
 
-The platform promotes responsible software engineering alongside technical excellence.
+### 💬 AI Developer Coach
 
----
+- Coding Assistance
+- Debugging
+- System Design Help
+- Career Guidance
+- Technology Explanations
 
-💬 AI Developer Coach
+### 🎤 Voice Interview Simulator
 
-An intelligent assistant for developers.
+Practice interviews with AI.
 
-Capabilities
+Supports:
 
-- Coding assistance
-- Debugging support
-- System design guidance
-- Career advice
-- Technology explanations
-- Learning recommendations
-
----
-
-🎤 Voice Interview Simulator
-
-Practice interviews through voice interactions.
-
-Includes
-
-- Technical interviews
-- HR interviews
-- Behavioral questions
-- System design rounds
-- AI-based evaluation
-- Communication feedback
+- Technical Interviews
+- HR Interviews
+- Behavioral Questions
+- Instant Feedback
 
 ---
 
-🏗️ Technology Stack
+# 🏗️ Tech Stack
 
-Frontend
+## Frontend
 
 - React 18
 - Vite
@@ -193,105 +131,26 @@ Frontend
 - Motion
 - Recharts
 
-Backend
+## Backend
 
 - Node.js
 - Express.js
 
-Artificial Intelligence
+## AI
 
 - Google Gemini 3.5 Flash
-- Structured JSON Responses
-- Prompt Engineering
+- Google GenAI SDK
 
-Native Browser APIs
+## Browser APIs
 
 - Web Speech Synthesis API
 - Web Audio API
 
 ---
 
-🔄 Platform Workflow
+# 📂 Project Structure
 
-User Login
-      │
-      ▼
-Student Dashboard
-      │
-      ▼
-AI Roadmap Generation
-      │
-      ▼
-Interactive Learning Sandbox
-      │
-      ▼
-Podcast Studio
-      │
-      ▼
-GitHub Profile Analysis
-      │
-      ▼
-Resume Optimization
-      │
-      ▼
-Dharma Ethical Evaluation
-      │
-      ▼
-AI Chat Assistant
-      │
-      ▼
-Voice Interview Practice
-
----
-
-🎯 Objectives
-
-- Deliver personalized learning experiences
-- Improve practical software engineering skills
-- Enhance interview preparation
-- Strengthen GitHub portfolios
-- Optimize resumes for ATS systems
-- Encourage ethical software development
-- Build industry-ready engineers
-
----
-
-📦 Installation
-
-Clone the repository
-
-git clone https://github.com/your-username/intellexa.git
-
-Navigate into the project
-
-cd intellexa
-
-Install dependencies
-
-npm install
-
-Create a ".env" file
-
-GEMINI_API_KEY=your_api_key
-PORT=3000
-NODE_ENV=development
-
-Run development server
-
-npm run dev
-
-Build production
-
-npm run build
-
-Start production server
-
-npm run start
-
----
-
-📂 Project Structure
-
+```
 Intellexa/
 │
 ├── client/
@@ -311,42 +170,100 @@ Intellexa/
 ├── .env
 ├── package.json
 └── README.md
+```
 
 ---
 
-👥 Team Members
+# ⚙️ Installation
 
-Team Member| Role| Primary Contributions
-NOOKA NIKSHITH| Team Lead • Full Stack & AI Developer| Led the overall project architecture, designed the frontend, integrated Google Gemini AI, implemented the dashboard, roadmap generator, GitHub auditor, resume analyzer, coordinated development, and managed final system integration and deployment.
-NAMBURI RISHIKA| UI/UX Designer & Frontend Developer| Designed responsive user interfaces, created modern layouts using React and Tailwind CSS, improved accessibility, implemented animations, optimized user experience, and contributed to dashboard and authentication screens.
-PACHA LIKHITHA SAI| Backend Developer & API Integration| Developed backend services using Express.js, managed API routing, implemented secure server-side logic, integrated AI service endpoints, handled environment configuration, and assisted in authentication workflows.
-PONNURU HEMA SRI| Research, Testing & Documentation| Conducted feature research, prepared datasets and testing scenarios, performed functional testing, validated outputs, documented the project, prepared user guides, and contributed to presentation materials and quality assurance.
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/intellexa.git
+```
+
+Move into the project
+
+```bash
+cd intellexa
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Create a `.env` file
+
+```env
+GEMINI_API_KEY=your_api_key
+PORT=3000
+NODE_ENV=development
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Build the application
+
+```bash
+npm run build
+```
+
+Run production server
+
+```bash
+npm run start
+```
 
 ---
 
-🚀 Future Enhancements
+# 🎯 Objectives
 
-- Mobile application
-- AI coding playground
-- Live coding interview platform
-- Team collaboration workspace
-- Personalized certification pathways
-- AI mentor with long-term learning memory
-- Integration with LinkedIn and GitHub APIs
-- Cloud deployment with analytics dashboard
-
----
-
-🌟 Vision
-
-Intellexa aims to redefine technical education by combining Artificial Intelligence, interactive learning, ethical engineering, and career preparation into one intelligent ecosystem. Instead of simply teaching concepts, Intellexa helps learners understand, practice, build, evaluate, and grow into confident software engineers ready for real-world challenges.
+- Deliver personalized learning experiences
+- Improve software engineering skills
+- Enhance interview preparation
+- Strengthen GitHub portfolios
+- Optimize ATS resumes
+- Encourage ethical software development
+- Bridge academia with industry
 
 ---
 
-📜 License
+# 👨‍💻 Team
 
-This project is developed for educational and academic purposes.
+| Name | Role | Contributions |
+|------|------|---------------|
+| **Nooka Nikshith** | Team Lead • Full Stack AI Developer | Designed the complete system architecture, developed the frontend and backend, integrated Gemini AI, implemented roadmap generation, GitHub auditor, resume analyzer, dashboard, chatbot, and coordinated the overall project development and deployment. |
+| **Namburi Rishika** | Frontend Developer & UI/UX Designer | Designed user-friendly interfaces, built responsive React components, implemented Tailwind CSS styling, animations, dashboard layouts, and enhanced overall user experience. |
+| **Pacha Likhitha Sai** | Backend Developer | Developed Express.js APIs, integrated AI endpoints, managed backend logic, implemented authentication workflows, handled server configuration, and assisted with database integration. |
+| **Ponnuru Hema Sri** | QA Engineer & Documentation | Performed application testing, validated AI outputs, prepared project documentation, contributed to feature research, maintained reports, and assisted in presentation preparation and quality assurance. |
 
 ---
 
-⭐ If you found this project helpful, consider giving it a Star on GitHub!
+# 🔮 Future Scope
+
+- Mobile Application
+- AI Coding Playground
+- Cloud Deployment
+- Personalized AI Mentor
+- Live Coding Interview Platform
+- Team Collaboration Workspace
+- LinkedIn Integration
+- GitHub Live Analytics
+
+---
+
+# 📜 License
+
+This project is developed for academic and educational purposes.
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to **Star ⭐ the repository**.
